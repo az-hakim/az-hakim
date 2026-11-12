@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./Gitbanneraziz.jpg" alt="Hello world">
+<img src="./github_banner.png" alt="Hello world">
 
 <br/>
 
