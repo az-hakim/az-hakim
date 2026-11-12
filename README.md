@@ -1,3 +1,8 @@
+<!--- banner --->
+<img src="./Gitbanneraziz.jpg" alt="Hello world">
+
+<br/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=azshifat007.azshifat007" />
 
 <h1 align="center">
